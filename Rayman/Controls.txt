@@ -1,0 +1,14 @@
+Controls:
+
+Move-Right [>]
+Move-Left [<]
+Move-Up [^]
+Jump [Space]
+Fullscreen [f]/[c]
+Quit/Close [Esc]
+
+Objectives:
+
+Collect all the orbs to earn score.
+
+Running low on health? why not get a health pack.

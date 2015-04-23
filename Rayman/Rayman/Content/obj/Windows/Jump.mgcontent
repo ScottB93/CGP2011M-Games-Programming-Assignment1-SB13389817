@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/Jump.wav</SourceFile>
+  <SourceTime>2015-04-22T17:09:05.1367175+01:00</SourceTime>
+  <DestFile>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/bin/Windows/Jump.xnb</DestFile>
+  <DestTime>2015-04-22T22:31:44.3608114+01:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2015-03-16T03:01:46+00:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2015-03-16T03:01:46+00:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

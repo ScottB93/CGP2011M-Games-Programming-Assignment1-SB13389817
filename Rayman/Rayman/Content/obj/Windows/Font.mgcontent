@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/Font.spritefont</SourceFile>
+  <SourceTime>2015-04-22T16:38:59.1203395+01:00</SourceTime>
+  <DestFile>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/bin/Windows/Font.xnb</DestFile>
+  <DestTime>2015-04-22T22:31:41.6965732+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2015-03-16T03:01:46+00:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2015-03-16T03:01:46+00:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/Bines.png</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/Cloud.png</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/CTC.png</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/Face.png</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/Finish.png</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/Flowers.png</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/Flowers2.png</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/GrassFloor.png</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/Heart.png</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/Ladder.png</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/Level2Background.jpg</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/LevelBackground.png</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/LoadingScreen.png</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/mainMusic.wav</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/MC.png</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/MenuBackground.png</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/MenuRayman.png</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/orb.png</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/orb2.png</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/orb3.png</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/orb4.png</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/orbCollect.png</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/Pause.png</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/Platform1.png</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/RaymanLeft.png</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/RaymanRight.png</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/Rock.png</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/Rock2.png</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/SmallPlatform.png</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/Spike.png</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/Spine.png</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/SplashScreenTitle.jpg</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/Start.png</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/Title.png</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/Tree.png</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/Tree2.png</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/Water.png</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/wWater.gif</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/Font.spritefont</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/HealthSound.wav</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/Hurt.wav</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/Jump.wav</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/OrbSound.wav</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/Splash.wav</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/FinishSound.wav</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/../../../../../University_Of_Lincoln/Game_Programming/Images/Quit.png</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/Button.wav</File>
+    <File>C:/Users/User-PC/Documents/Visual Studio 2013/Projects/Rayman/Rayman/Content/YAD.png</File>
+  </SourceFiles>
+</SourceFileCollection>
